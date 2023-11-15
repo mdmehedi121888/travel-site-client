@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "place_name": "Sundarbans",
+    "image_url": "https://github.com/ProgrammingHero1/travel-guru-resources/blob/main/images/sundorbon.png",
+    "description": "The Sundarbans is the largest mangrove forest in the world, known for its rich biodiversity and the Royal Bengal tigers.",
+    "location": "Khulna"
+  },
+  {
+    "id": 2,
+    "place_name": "Cox's Bazar",
+    "image_url": "https://en.wikipedia.org/wiki/Cox%27s_Bazar#/media/File:Cox's_Bazar_Sunset.JPG",
+    "description": "Cox's Bazar is famous for having one of the longest natural sea beaches in the world, attracting tourists for its pristine beauty.",
+    "location": "Chittagong"
+  },
+  {
+    "id": 3,
+    "place_name": "Srimangal",
+    "image_url": "https://github.com/ProgrammingHero1/travel-guru-resources/blob/main/images/Sreemongol.png",
+    "description": "Known as the 'Tea Capital of Bangladesh,' Srimangal is famous for its lush tea gardens and biodiversity.",
+    "location": "Sylhet"
+  },
+  {
+    "id": 4,
+    "place_name": "Ratargul Swamp Forest",
+    "image_url": "https://file.portal.gov.bd/uploads/7cbf034f-519d-4a1f-a38c-fcb91cf6497d//60e/bcf/e6a/60ebcfe6aaa33027254823.jpg",
+    "description": "Ratargul is the only swamp forest in Bangladesh and is known for its serene beauty and boat rides through the swamp.",
+    "location": "Sylhet"
+  }
+]
